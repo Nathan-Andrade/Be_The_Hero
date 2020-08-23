@@ -24,11 +24,6 @@
   <img src="https://github.com/Nathan-Andrade/proffy/blob/master/github/gifMobile.gif?raw=true" >
 </p>
 
-### Front-end
-No Front-end da aplicação foi utilizado React.js que possibilita pessoas a cadastrarem casos para Ongs que tem o intuito de ajudar nos casos de animais machucados na rua. 
-
-**Logon:**
-
  ## :airplane: Tecnologias e Bibliotecas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
