@@ -45,7 +45,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <summary>Frontend</summary>
 
 -   [React](https://pt-br.reactjs.org/)
--   Javascript](https://www.typescriptlang.org/)
+-   [Javascript](https://www.typescriptlang.org/)
 -   [Styled Components](https://styled-components.com/)
 -   [Context API](https://reactjs.org/docs/context.html)
 -   [Axios](https://www.npmjs.com/package/axios)
