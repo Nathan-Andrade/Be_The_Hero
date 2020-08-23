@@ -5,7 +5,7 @@
 <br />
 
 <h2 align="center">
-    Be The Hero :rocket:
+   :rocket: Semana Oministack 11 :rocket:
 </h2>
 
   ![](https://img.shields.io/github/languages/count/Nathan-Andrade/Be_The_Hero?color=%23e82041)  ![](https://img.shields.io/github/languages/top/Nathan-Andrade/Be_The_Hero?color=%23e82041)  ![](https://img.shields.io/github/repo-size/Nathan-Andrade/Be_The_hero?color=%23e82041) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/Be_The_Hero?color=%23e82041)
@@ -17,7 +17,7 @@
 
 ## :computer: Projeto
 
- Be The Hero foi um projeto desenvolvido na Semana Oministack 11.0 promovido pela RocketSeat. A proposta dessa aplicação no Back-End , Front-End e Mobile é conectar Ongs com suas causas com pessoas ou empresas que desejam ajudar.
+ Be The Hero é um projeto desenvoldido que conecta ONGs e pessoas para ajudar animais indefesos que estão gravemente feridos.
 
  <p align="center">
   <img src="https://github.com/Nathan-Andrade/Proffy/blob/master/github/gifDaAplica%C3%A7%C3%A3oWithResponsive.gif?raw=true" >
