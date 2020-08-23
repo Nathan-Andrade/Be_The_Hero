@@ -113,7 +113,7 @@ $ npm start
 ### Frontend
 
 ```bash
-# Para rodar a aplicação web realize os seguintes comandos
+# Para rodar a aplicação web (frontend) realize os seguintes comandos
 $ cd frontend
 $ npm install
 $ npm start
