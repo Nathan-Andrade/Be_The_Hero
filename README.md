@@ -20,7 +20,7 @@
  Be The Hero é um projeto desenvoldido que conecta ONGs e pessoas para ajudar animais indefesos que estão gravemente feridos.
 
  <p align="center">
-  <img src="https://github.com/Nathan-Andrade/Be_The_Hero/blob/master/github/gifWeb.gif?raw=true" >
+  <img src="https://github.com/Nathan-Andrade/Be_The_Hero/blob/master/github/gifWeb.gif?raw=true">
   <img src="https://github.com/Nathan-Andrade/Be_The_Hero/blob/master/github/gifMobile.gif?raw=true" >
 </p>
 
